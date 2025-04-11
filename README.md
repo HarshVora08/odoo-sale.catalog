@@ -1,0 +1,1 @@
+# odoo-sale.catalog
